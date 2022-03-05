@@ -2,12 +2,16 @@
 
 # Hi there 👋     
 
-I'm Adylsha from Turkey, and I have a Civil Engineering degree from Balikesir University. After graduation, I decided to continue my career as a software developer. I really enjoy data science and mobile development. I also enjoy learning languages and frameworks like Python, Dart and Flutter.
+I'm Adylsha from Turkey, and I have a Civil Engineering degree from Balikesir University. After graduation, I decided to continue my career as a software developer. I really enjoy data science and mobile development. I also enjoy learning languages and frameworks like Python, Dart, Flutter and Front-End technologies.
 
 ### 💻 I'm Currently Learning
 - 🐍 Python
-- 📱Flutter
+- 📱 Flutter
 - 📊 SQL
+- 📄 HTML
+- 🖌 CSS
+- 🛠 JS
+- ⚛ React
 
 ### 🏆 Experience
 -  Trainee at [Oyun ve Uygulama Akademisi](https://oyunveuygulamaakademisi.com/).
