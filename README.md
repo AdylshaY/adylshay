@@ -18,6 +18,7 @@ I'm Adylsha from Turkey, and I have a Civil Engineering degree from Balikesir Un
 -  Trainee at [Oyun ve Uygulama Akademisi](https://oyunveuygulamaakademisi.com/).
 -  [Patika.dev](https://www.patika.dev/) Bootcamp Acceleration Program Student.
 -  Student at [Patika.dev](https://www.patika.dev/) & [Gelecek Varlık](https://www.gelecekvarlik.com.tr/) FullStack [Bootcamp](https://github.com/GelecekVarlik-FullStack-Bootcamp).
+-  Junior Software Developer at [Gelecek Varlık](https://www.gelecekvarlik.com.tr/)
 
 ### ☕ Contact Me
 - [LinkedIn](https://www.linkedin.com/in/adylsha-yumayev/)
