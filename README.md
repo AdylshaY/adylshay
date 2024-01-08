@@ -4,15 +4,12 @@
 
 I'm Adylsha from Turkey, and I have a Civil Engineering degree from Balikesir University. After graduation, I decided to continue my career as a software developer. I really enjoy fullstack development and mobile development. I also enjoy learning languages and frameworks like Python, Dart, Flutter and Front-End technologies.
 
-### 💻 I'm Currently Learning
-- 🐍 Python
-- 📱 Flutter
-- 📊 SQL
-- 📄 HTML
-- 🖌 CSS
-- 🛠 JS
-- ⚛ React
-- 💾 .Net
+### 💻 My Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,git,dotnet,cs,mongodb,prisma,react,redux,tailwind,ts" />
+  </a>
+</p>
 
 ### 🏆 Experience
 -  Trainee at [Oyun ve Uygulama Akademisi](https://oyunveuygulamaakademisi.com/).
@@ -23,3 +20,11 @@ I'm Adylsha from Turkey, and I have a Civil Engineering degree from Balikesir Un
 ### ☕ Contact Me
 - [LinkedIn](https://www.linkedin.com/in/adylsha-yumayev/)
 - adylshay@gmail.com
+
+### ✔️ My Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adylshay" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adylshay&layout=compact&langs_count=8&card_width=320" />
+</a>
